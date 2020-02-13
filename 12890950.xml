@@ -1,0 +1,25 @@
+<BatRecord>
+	<Firmware>2.2.6</Firmware>
+	<SN>1289</SN>
+	<Filename>12890950.wav</Filename>
+	<DateTime>03.06.2018 23:21:41</DateTime>
+	<Duration>2 Sec</Duration>
+	<Samplerate>312500 Hz</Samplerate>
+	<Temperature>23 C</Temperature>
+	<BattVoltage>3.6 V</BattVoltage>
+	<GPS>
+		<Valid>never</Valid>
+	</GPS>
+	<Trigger>
+		<TRIG_MODE>Crest Adv</TRIG_MODE>
+		<Version>V1.0</Version>
+		<Event>AutoTriggered</Event>
+		<PRETRIG_TIME_MS>500</PRETRIG_TIME_MS>
+		<POSTTRIG_TIME_MS>1000</POSTTRIG_TIME_MS>
+		<TRIG_PAR6>7</TRIG_PAR6>
+		<TRIG_PAR7>15</TRIG_PAR7>
+		<TRIG_PAR8>155</TRIG_PAR8>
+		<TrigValue0>8</TrigValue0>
+		<TrigValue3>43</TrigValue3>
+	</Trigger>
+</BatRecord>
