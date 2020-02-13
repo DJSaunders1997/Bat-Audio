@@ -2,7 +2,11 @@
 
 ## Bat detectors
 
+Product used:
 https://www.batlogger.com/en/products/batlogger_m/
+
+Software to analyse:
+https://www.batlogger.com/en/downloads/batexplorer/software/be_2.1/
 
 Frequency division
 Handheld
