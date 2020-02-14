@@ -1,0 +1,27 @@
+<BatRecord>
+	<Firmware>2.2.6</Firmware>
+	<SN>1289</SN>
+	<Filename>12890966.wav</Filename>
+	<DateTime>04.06.2018 00:08:14</DateTime>
+	<Duration>53 Sec</Duration>
+	<Samplerate>312500 Hz</Samplerate>
+	<Temperature>25 C</Temperature>
+	<BattVoltage>3.6 V</BattVoltage>
+	<GPS>
+		<Valid>old</Valid>
+		<Position>51.615345 -3.973210</Position>
+		<Altitude>78.861000 m</Altitude>
+		<CH1903>-190181/777021</CH1903>
+		<HDOP>1.010000</HDOP>
+		<SatsUsed>10</SatsUsed>
+		<GPSTimestamp>00:03:08+2h</GPSTimestamp>
+		<GPSAge>79559 Sec</GPSAge>
+	</GPS>
+	<Trigger>
+		<TRIG_MODE>Continuous</TRIG_MODE>
+		<Version>V1.0</Version>
+		<Event>AutoTriggered</Event>
+		<PRETRIG_TIME_MS>500</PRETRIG_TIME_MS>
+		<POSTTRIG_TIME_MS>1000</POSTTRIG_TIME_MS>
+	</Trigger>
+</BatRecord>
